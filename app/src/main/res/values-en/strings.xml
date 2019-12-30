@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="foll">Followers 1,303</string>
+    <string name="follwing">Following 1,044</string>
+    <string name="post">Posts 5</string>
+    <string name="pubgs">PLAY TODAY ON XBOX, PC, AND PS4 Compete with 100 players on a remote island for a winner-takes-all showdown where strategic gameplay is as important as shooting skills.</string>
+    <string name="cods">Call of Duty (the first game was released on October 29, 2003) is a first-person Shooter series with an engine based on the Quake III: Team Arena game.</string>
+    <string name="chess">Chess Rush is a game that is no less exciting with Dota Underlords or Auto Chess. Chess Rush provides different features compared to other Auto Battlers.</string>
+</resources>
